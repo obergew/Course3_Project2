@@ -13,7 +13,7 @@ Column label: Subject
 Variable type: Numeric
 Values: 1-30
 
-The remaining columns are mean and standard deviation of various signals best described by the original dataset codebook.  
+The remaining columns are mean and standard deviation of various signals best described by the original dataset codebook (Reyes-Ortiz et al. 2012).  
 >These signals were used to estimate variables of the feature vector for each pattern:  
 >'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 >
